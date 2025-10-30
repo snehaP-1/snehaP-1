@@ -1,9 +1,7 @@
-# Hi there, I’m Sneha Puttanan 👋  
-**USN:** 4PM21AI044  
+# Hi there, I’m Sneha P 👋   
 
 ## 🎓 About Me  
-- I’m currently developing AI-driven solutions such as a **Smart Classroom Management System**, **Automated Attendance & Attentiveness Monitoring** (using face recognition), and **AI-Driven Personalized Learning Path** recommendations.  
-- I’ve also implemented a **Resume Screening System** (NLP + ML) and worked on a hospital-appointment website project during my internship.  
+- I’m currently developing AI-driven solutions such as a , **Automated Attendance & Attentiveness Monitoring** (using face recognition).
 - I have completed a 50-hour course in AI & ML (PES Institute) and a Cybersecurity Training (Grade A+).  
 - Tech stack: Python, Java, MySQL, Scikit-learn, TensorFlow, Django/Flask, face-recognition algorithms, NLP, databases.  
 - I’m passionate about building systems that enhance learning outcomes, streamline workflows, and make education & healthcare more efficient.
@@ -34,7 +32,7 @@ Here are some highlights of my projects:
 
 ## 📫 How to Reach Me  
 - Email: youremail@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- LinkedIn: [linkedin.com/in/sneha-p-2b70a827a](linkedin.com/in/sneha-p-2b70a827a)  
 - GitHub: [github.com/snehaP-1](https://github.com/snehaP-1)  
 
 ## 🏆 GitHub Stats  
